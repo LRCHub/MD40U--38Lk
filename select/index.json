@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "このラブソングはパンクナンバー",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T19:07:04.004145Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "このラブソングはパンクナンバー",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_このラブソングはパンクナンバー_サンボマスター.txt"
+    }
+  ]
+}
